@@ -1,3 +1,5 @@
+
+
 function getShippingMessage(country, price, deliveryFee) {
     
     const totalPrice = price + deliveryFee
